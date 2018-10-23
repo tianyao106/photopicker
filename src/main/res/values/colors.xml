@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <!-- 白色 -->
-    <color name="white">#FFFFFF</color>
-
-
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="action_text_color_normal" tools:ignore="ResourceName">#cfcfcf</color>
+    <color name="action_text_color_pressed" tools:ignore="ResourceName">#353535</color>
+    <color name="action_text_color_enabled" tools:ignore="ResourceName">#818585</color>
+    <color name="inspect_text_color_white" tools:ignore="ResourceName">#FFFFFF</color>
 </resources>
